@@ -1,6 +1,6 @@
-<p align="center">Olá, me chamo Guilherme 👋, Seja Bem vindo ao meu GitHub </p>
 
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="center">I'm Guilherme, a programmer and student 👋</p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpocas&show_icons=true&bg_color=00000000)
