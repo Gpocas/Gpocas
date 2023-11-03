@@ -16,7 +16,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpocas&show_icons=true&bg_color=00000000)
+
 
 ## Skills:
 
@@ -28,8 +28,8 @@
 
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_logotype_emblem.png&f=1&nofb=1" /> ReactJS
 
-
-
+## My Statistics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpocas&show_icons=true&bg_color=00000000)
 
 
 
