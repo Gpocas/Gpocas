@@ -13,7 +13,7 @@
   </a>
  </p>
 
-<p align="center" style="font-size:30px;">Welcome to my Github</p>
+<p align="center" > # Welcome to my Github</p>
 
 - ## Skills:
 
