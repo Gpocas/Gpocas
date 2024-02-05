@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently learning **React and NestJS**
 
-- 💬 Ask me about **Python, Node.JS, SQL**
+- 💬 Ask me about **Python, NodeJS, SQL**
 
 
 ## Skills:
