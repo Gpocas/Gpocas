@@ -6,7 +6,7 @@
   
 - 🚚 I’m currently working on **JBS Transportadora** 
 
-- 🔭 I’m currently learning **React and NestJS**
+- 🔭 I’m currently learning **React and NextJS**
 
 - 💬 Ask me about **Python, NodeJS, SQL**
 
