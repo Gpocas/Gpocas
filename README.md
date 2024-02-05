@@ -1,5 +1,6 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Guilherme Poças</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gpocas&color=yellow" alt="Profile views" /> </p>
 
 <h3 align="center"><b>____WELCOME TO MY GITHUB____</b></h3>
 
