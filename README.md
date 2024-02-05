@@ -13,17 +13,22 @@
   </a>
  </p>
 
-- ### Skills:
-
-  <div align="justify">
-    <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" /> Python
-  </div>
+ 
+- 🔥 Pleno Backend Developer
   
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /> NodeJS
+- 🚚 I’m currently working on **JBS Transportadora** 
 
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" /> React
-  
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/> PostgreSQL
+- 🔭 I’m currently learning **React and NestJS**
+
+- 💬 Ask me about **Python, Node.JS, SQL**
 
 
+## Skills:
 
+<img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" /> Python
+
+<img width="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /> NodeJS
+
+<img width="20" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" /> React
+
+<img width="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/> PostgreSQL
