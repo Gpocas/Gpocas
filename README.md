@@ -4,7 +4,7 @@
  
 - 🔥 Pleno Backend Developer
   
-- 🚚 I’m currently working on **JBS Transportadora** 
+- 🚚 I’m currently working on **TRS Transport** 
 
 - 🔭 I’m currently learning **React and NextJS**
 
