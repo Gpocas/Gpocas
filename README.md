@@ -12,17 +12,17 @@
 
 
 ## Skills:
-  <img width="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" /> Python
+  <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" /> Python
 
-  <img width="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4c%2FTypescript_logo_2020.svg%2F512px-Typescript_logo_2020.svg.png&f=1&nofb=1" /> TypeScript
+  <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4c%2FTypescript_logo_2020.svg%2F512px-Typescript_logo_2020.svg.png&f=1&nofb=1" /> TypeScript
 
-  <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" /> Vue
+  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" /> Vue
 
-  <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" /> Nuxt
+  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" /> Nuxt
 
-  <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" /> Docker
+  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" /> Docker
 
-  <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" /> Postgres
+  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" /> Postgres
 
 <br>
 
