@@ -6,9 +6,9 @@
   
 - 🚚 I’m currently working on **TRS** 
 
-- 🔭 I’m currently learning **React and NextJS**
+- 🔭 I’m currently learning **Vue and Nuxt**
 
-- 💬 Ask me about **Python, NodeJS, SQL**
+- 💬 Ask me about **Python, JavaScript, TypeScript or Postgres**
 
 
 ## Skills:
@@ -18,8 +18,7 @@
 
   <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" /> Vue
 
-
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" /> Svelte
+  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" /> Nuxt
 
   <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" /> Docker
 
