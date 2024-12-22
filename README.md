@@ -2,7 +2,7 @@
 <h3 align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></h3>
 
  
-- 🔥 Junior Backend Developer
+- 🔥 Junior FullStack Developer
   
 - 🚚 I’m currently working on **TRS** 
 
