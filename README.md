@@ -20,7 +20,7 @@
 
   <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" /> Nuxt
 
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" /> Docker
+  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" /> Docker
 
   <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" /> Postgres
 
