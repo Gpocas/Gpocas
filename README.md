@@ -4,11 +4,11 @@
  
 - 🔥 Junior FullStack Developer
   
-- 🚚 I’m currently working on **TRS** 
+- 🚚 I’m currently working on **TRS FROM JBS** 
 
 - 🔭 I’m currently learning **Vue and Nuxt**
 
-- 💬 Ask me about **Python, JavaScript, TypeScript or Postgres**
+- 💬 Ask me about **Python, TypeScript, Docker or Postgres**
 
 
 ## Skills:
