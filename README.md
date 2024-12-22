@@ -11,45 +11,19 @@
 - 💬 Ask me about **Python, NodeJS, SQL**
 
 
-
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
-<!-- in your body -->
-<i class="devicon-vuejs-plain colored"></i>
-
-
 ## Skills:
-<div style="margin: 1em 1em 1.1em ; display: flex; gap: 5px"> 
-  <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" />
-  <span>Python</span>
-</div>
+  <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" /> Python
 
-<div style="margin: 1em 1em 1.1em ; display: flex; gap: 5px"> 
-  <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4c%2FTypescript_logo_2020.svg%2F512px-Typescript_logo_2020.svg.png&f=1&nofb=1" /> 
-  <span>TypeScript </span>
-</div>
+  <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4c%2FTypescript_logo_2020.svg%2F512px-Typescript_logo_2020.svg.png&f=1&nofb=1" /> TypeScript
 
-<div style="margin: 1em 1em 1.1em ; display: flex; gap: 5px"> 
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
-  <span>Vue</span>
-</div>
+  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" /> Vue
 
 
-<div style="margin: 1em 1em 1.1em ; display: flex; gap: 5px"> 
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" />
-  <span>Svelte</span>
-</div>
+  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" /> Svelte
 
-<div style="margin: 1em 1em 1.1em ; display: flex; gap: 5px"> 
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" />
-  <span>Docker</span>
-</div>
+  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" /> Docker
 
-<div style="margin: 1em 1em 1.1em ; display: flex; gap: 5px"> 
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
-  <span>Postgres</span>
-</div>
+  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" /> Postgres
 
 <br>
 
