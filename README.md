@@ -2,33 +2,24 @@
 <h3 align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></h3>
 
  
-- 🔥 Junior FullStack Developer
+- 🔥 Junior Backend Developer
   
 - 🚚 I’m currently working on **TRS** 
 
-- 🔭 I’m currently learning **Vue and Svelte**
+- 🔭 I’m currently learning **React and NextJS**
 
-- 💬 Ask me about **Python, JavaScript, SQL**
+- 💬 Ask me about **Python, NodeJS, SQL**
 
 
 ## Skills:
 
-<div style="display: flex; align-items: center;">
-  <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" /> 
-  <span style="margin-left: 10px;">Python</span>
-</div>
-<div style="display: flex; align-items: center;">
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /> 
-  <span style="margin-left: 10px;">NodeJS</span>
-</div>
-<div style="display: flex; align-items: center;">
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" /> 
-  <span style="margin-left: 10px;">Vue</span>
-</div>
-<div style="display: flex; align-items: center;">
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/> 
-  <span style="margin-left: 10px;">PostgreSQL</span>
-</div>
+  <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" /> Python
+
+  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /> NodeJS
+
+  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" /> React
+
+  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/> PostgreSQL
 
 <br>
 
