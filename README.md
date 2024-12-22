@@ -2,13 +2,13 @@
 <h3 align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></h3>
 
  
-- 🔥 Junior Backend Developer
+- 🔥 Junior FullStack Developer
   
 - 🚚 I’m currently working on **TRS** 
 
-- 🔭 I’m currently learning **React and NextJS**
+- 🔭 I’m currently learning **Vue and Svelte**
 
-- 💬 Ask me about **Python, NodeJS, SQL**
+- 💬 Ask me about **Python, JavaScript, SQL**
 
 
 ## Skills:
@@ -17,7 +17,7 @@
 
   <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /> NodeJS
 
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" /> React
+  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" /> Vue
 
   <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/> PostgreSQL
 
