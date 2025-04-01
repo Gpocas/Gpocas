@@ -6,23 +6,18 @@
   
 - 🚚 I’m currently working on **TRS FROM JBS** 
 
-- 🔭 I’m currently learning **Vue and Nuxt**
+- 🔭 I’m currently learning **Vue and Svelte**
 
-- 💬 Ask me about **Python, TypeScript, Docker or Postgres**
+- 💬 Ask me about **Python, TypeScript, Postgres or Docker**
 
 
 ## Skills:
-  <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" /> Python
-
-  <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4c%2FTypescript_logo_2020.svg%2F512px-Typescript_logo_2020.svg.png&f=1&nofb=1" /> TypeScript
-
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" /> Vue
-
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" /> Nuxt
-
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" /> Docker
-
-  <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" /> Postgres
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <br>
 
@@ -32,6 +27,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-po%C3%A7as-0226a4266/)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gpocas)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pocaas_3301/)
+
 
 
 
