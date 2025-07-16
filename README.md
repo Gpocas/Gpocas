@@ -4,9 +4,9 @@
  
 - 🔥 Junior FullStack Developer
   
-- 🚚 I’m currently working on **TRS FROM JBS** 
+- 🚚 I’m currently working on **JBS** 
 
-- 🔭 I’m currently learning **Vue and Svelte**
+- 🔭 I’m currently learning **React and NextJS**
 
 - 💬 Ask me about **Python, TypeScript, Postgres or Docker**
 
@@ -14,8 +14,8 @@
 ## Skills:
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br>
