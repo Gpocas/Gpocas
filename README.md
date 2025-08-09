@@ -2,8 +2,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=007ACC&center=true&width=1000&lines=Hello%2C+my+name+is+Guilherme+Po%C3%A7as;I'm+23+years+old;I'm+from+Lins%2C+SP;I+current+working+web+development;Be+Welcome!+%3A)" alt="Typing SVG" /></a>
 
-
-
 ---
 
 ### About:
