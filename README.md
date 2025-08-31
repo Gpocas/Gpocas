@@ -5,7 +5,7 @@
 ---
 
 ### About:
-- 🔥 Junior FullStack Developer
+- 🔥 Pleno FullStack Developer
   
 - 🚚 I’m currently working on **JBS** 
 
