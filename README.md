@@ -19,7 +19,7 @@
 [![Languages](https://skillicons.dev/icons?i=python,typescript,bash)](https://skillicons.dev)
 
 #### Backend
-[![Backend](https://skillicons.dev/icons?i=django,fastapi,adonis,elysia)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=django,fastapi,nest,elysia)](https://skillicons.dev)
 
 #### Frontend
 [![Frontend](https://skillicons.dev/icons?i=svelte,tailwind,less)](https://skillicons.dev)
