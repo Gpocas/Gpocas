@@ -16,22 +16,16 @@
 ### Skills:
 
 #### Languages
-[![Languages](https://skillicons.dev/icons?i=python,typescript,lua,bash)](https://skillicons.dev)
-
+[![Languages](https://skillicons.dev/icons?i=python,typescript,bash)](https://skillicons.dev)
 
 #### Backend
-[![Backend](https://skillicons.dev/icons?i=django,fastapi,nestjs,elysia)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=django,fastapi,adonis,elysia)](https://skillicons.dev)
 
 #### Frontend
 [![Frontend](https://skillicons.dev/icons?i=svelte,tailwind,less)](https://skillicons.dev)
 
-
 #### Database
 [![DevOps](https://skillicons.dev/icons?i=postgres,redis,mongo)](https://skillicons.dev)
-
-
-#### DevOps
-[![DevOps](https://skillicons.dev/icons?i=docker,grafana,ansible)](https://skillicons.dev)
 
 
 ### Contacts:
