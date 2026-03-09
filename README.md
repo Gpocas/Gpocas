@@ -7,8 +7,7 @@
 ### About:
 - 🔥 Pleno FullStack Developer
   
-- 🚚 I’m currently working on **JBS** 
-
+- 🚚 I’m currently working on [**JBS**](https://www.jbs.com.br/sobre/)
 - 🔭 I’m currently learning **Svelte**
 
 - 💬 Ask me about **Python, TypeScript, Postgres or Docker**
